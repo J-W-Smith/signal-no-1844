@@ -2,6 +2,12 @@
 
 Use this for Signal No. 1844 videos. Replace placeholder links before publishing.
 
+Full parts/link reference lives here:
+
+```text
+docs/parts-and-links.md
+```
+
 ---
 
 ## Long YouTube Description
@@ -26,6 +32,9 @@ The goal is not to pretend I’m an expert. The goal is to learn in public, make
 GitHub repo:
 https://github.com/J-W-Smith/signal-no-1844
 
+Parts and links list:
+https://github.com/J-W-Smith/signal-no-1844/blob/main/docs/parts-and-links.md
+
 ## Attribution / Inspiration
 
 The homemade copper-trace board technique planned for a future version is credited to **QZW_Labs**.
@@ -46,7 +55,7 @@ https://www.youtube.com/shorts/oOk-kK3fkr8
 
 Huge respect to makers who share their process. This project is my own Morse/telegraph trainer build, but I want to make sure the techniques and inspiration that helped shape it are credited properly.
 
-## Possible Affiliate / Sponsor Links
+## Affiliate / Sponsor Links
 
 Some links may be affiliate, referral, or sponsor links. If you use them, it may support the project at no extra cost to you.
 
@@ -56,17 +65,20 @@ Micro Center:
 PCBWay:
 [INSERT PCBWAY AFFILIATE / SPONSOR / COUPON LINK]
 
-Arduino / microcontroller parts:
-[INSERT LINK]
+Arduino Uno R3 official:
+https://store-usa.arduino.cc/products/arduino-uno-rev3
 
-Breadboard / jumper wire kit:
-[INSERT LINK]
+Arduino Uno R3 docs:
+https://docs.arduino.cc/hardware/uno-rev3/
 
-LEDs / resistors / buzzer kit:
-[INSERT LINK]
+PCBWay prototype PCB order:
+https://www.pcbway.com/orderonline.aspx
 
-Soldering tools:
-[INSERT LINK]
+KiCad:
+https://www.kicad.org/
+
+Parts/tools list:
+https://github.com/J-W-Smith/signal-no-1844/blob/main/docs/parts-and-links.md
 
 ## Parts Used In This Video
 
@@ -114,6 +126,9 @@ This episode focuses on the Arduino bench build: button input, LED feedback, buz
 GitHub:
 https://github.com/J-W-Smith/signal-no-1844
 
+Parts/links:
+https://github.com/J-W-Smith/signal-no-1844/blob/main/docs/parts-and-links.md
+
 Attribution:
 Homemade copper-trace board technique credited to QZW_Labs.  
 Original/source video: https://www.youtube.com/watch?v=PLliKgzKKUI  
@@ -124,7 +139,7 @@ Shorts reference: https://www.youtube.com/shorts/oOk-kK3fkr8
 Affiliate/sponsor links:
 Micro Center: [INSERT LINK]  
 PCBWay: [INSERT LINK]  
-Parts/tools: [INSERT LINKS]
+Parts/tools: https://github.com/J-W-Smith/signal-no-1844/blob/main/docs/parts-and-links.md
 
 #morsecode #arduino #electronics #pcb #maker #diyelectronics #telegraph
 
@@ -138,6 +153,8 @@ Credit where it’s due: the homemade copper-trace board technique I want to try
 
 Project repo: https://github.com/J-W-Smith/signal-no-1844
 
+Parts/links: https://github.com/J-W-Smith/signal-no-1844/blob/main/docs/parts-and-links.md
+
 #morsecode #arduino #electronics #maker #pcb #diyelectronics
 
 ---
@@ -146,6 +163,9 @@ Project repo: https://github.com/J-W-Smith/signal-no-1844
 
 Project repo is here:
 https://github.com/J-W-Smith/signal-no-1844
+
+Parts and links list:
+https://github.com/J-W-Smith/signal-no-1844/blob/main/docs/parts-and-links.md
 
 Attribution note: for the homemade copper-trace board technique I plan to try in a future version, credit goes to QZW_Labs. I first found the reference/demo through @theraccoonlab.
 
