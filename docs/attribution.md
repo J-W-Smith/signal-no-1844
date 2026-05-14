@@ -8,9 +8,15 @@ This file exists so credits do not get lost during scripting, filming, editing, 
 
 ### Homemade copper-trace / circuit-board-at-home technique
 
-Status: **Needs confirmed original source before publishing.**
+Status: **Creator identified and reference link saved. Verify creator/link one more time before publishing.**
 
-A video reference was shared showing a handmade circuit-board style technique using exposed copper traces/copper tape and soldered components. Before using this technique in a video or public build guide, identify and credit the original creator/source.
+A video reference was shared showing a handmade circuit-board style technique using exposed copper traces/copper tape and soldered components. The creator/source appears to be **@theraccoonlab**.
+
+Reference link:
+
+```text
+https://www.youtube.com/shorts/oOk-kK3fkr8
+```
 
 Credit should appear in:
 
@@ -20,17 +26,17 @@ Credit should appear in:
 - [ ] GitHub README or related build doc
 - [ ] Any TikTok/Shorts caption using the technique
 
-Suggested wording once creator is confirmed:
+Suggested wording:
 
 ```text
-Homemade copper-trace board technique inspired by [CREATOR NAME / HANDLE].
-Original reference: [LINK]
+Homemade copper-trace board technique inspired by @theraccoonlab.
+Original reference: https://www.youtube.com/shorts/oOk-kK3fkr8
 ```
 
 If the idea came through a repost, credit both when appropriate:
 
 ```text
-Technique originally by [ORIGINAL CREATOR].
+Technique originally by @theraccoonlab.
 Reference video/repost found via [ACCOUNT / LINK].
 ```
 
@@ -44,9 +50,10 @@ Reference video/repost found via [ACCOUNT / LINK].
 
 ## To confirm
 
-- [ ] Identify the original creator of the homemade copper-trace technique.
-- [ ] Capture their handle/name.
-- [ ] Save the original link.
+- [x] Identify the original creator of the homemade copper-trace technique: **@theraccoonlab**.
+- [x] Capture their handle/name: **@theraccoonlab**.
+- [x] Save the original/reference link: `https://www.youtube.com/shorts/oOk-kK3fkr8`.
+- [ ] Verify the link/creator one more time before publishing.
 - [ ] Decide exact credit wording.
 - [ ] Add credit to the video plan.
 - [ ] Add credit to the README if the technique becomes part of the build.
