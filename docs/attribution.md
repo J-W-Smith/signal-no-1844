@@ -8,16 +8,18 @@ This file exists so credits do not get lost during scripting, filming, editing, 
 
 ### Homemade copper-trace / circuit-board-at-home technique
 
-Status: **Attribution chain identified. Verify links/handles one more time before publishing.**
+Status: **Attribution chain identified with direct source links saved. Verify links/handles one more time before publishing.**
 
 A video reference was shared showing a handmade circuit-board style technique using exposed copper traces/copper tape and soldered components.
 
 Current attribution chain:
 
-- **Technique source / where the video creator learned it:** `QZW_Labs`
-- **Video/reference creator who demonstrated it:** `@theraccoonlab`
-- **Full video reference:** `https://www.youtube.com/watch?v=bc2XveRzbmc`
-- **Shorts reference:** `https://www.youtube.com/shorts/oOk-kK3fkr8`
+- **Original technique/source creator:** `QZW_Labs`
+- **QZW_Labs YouTube channel:** `https://www.youtube.com/@QZW_Labs`
+- **QZW_Labs original/source video:** `https://www.youtube.com/watch?v=PLliKgzKKUI`
+- **Reference/demo creator who demonstrated the method:** `@theraccoonlab`
+- **Full reference/demo video:** `https://www.youtube.com/watch?v=bc2XveRzbmc`
+- **Shorts reference/demo:** `https://www.youtube.com/shorts/oOk-kK3fkr8`
 
 Credit should appear in:
 
@@ -27,10 +29,13 @@ Credit should appear in:
 - [ ] GitHub README or related build doc
 - [ ] Any TikTok/Shorts caption using the technique
 
-Suggested wording:
+Suggested full wording:
 
 ```text
-Homemade copper-trace board technique credited to QZW_Labs, based on attribution from @theraccoonlab.
+Homemade copper-trace board technique originally credited to QZW_Labs.
+Original/source video: https://www.youtube.com/watch?v=PLliKgzKKUI
+QZW_Labs channel: https://www.youtube.com/@QZW_Labs
+Reference/demo that led me to the technique: @theraccoonlab
 Reference video: https://www.youtube.com/watch?v=bc2XveRzbmc
 Shorts reference: https://www.youtube.com/shorts/oOk-kK3fkr8
 ```
@@ -40,8 +45,6 @@ Shorter caption wording:
 ```text
 Copper-trace technique credit: QZW_Labs. Reference/demo via @theraccoonlab.
 ```
-
-If more direct source material from QZW_Labs is found, update this file and make that the primary reference.
 
 ## Attribution rules for this project
 
@@ -53,11 +56,12 @@ If more direct source material from QZW_Labs is found, update this file and make
 
 ## To confirm
 
-- [x] Identify the source credited by the reference video: **QZW_Labs**.
+- [x] Identify original/source creator: **QZW_Labs**.
+- [x] Save QZW_Labs channel: `https://www.youtube.com/@QZW_Labs`.
+- [x] Save QZW_Labs source video: `https://www.youtube.com/watch?v=PLliKgzKKUI`.
 - [x] Capture the reference/demo creator handle: **@theraccoonlab**.
-- [x] Save the full video reference: `https://www.youtube.com/watch?v=bc2XveRzbmc`.
-- [x] Save the Shorts reference: `https://www.youtube.com/shorts/oOk-kK3fkr8`.
-- [ ] Find direct QZW_Labs source link if available.
+- [x] Save the full reference/demo video: `https://www.youtube.com/watch?v=bc2XveRzbmc`.
+- [x] Save the Shorts reference/demo: `https://www.youtube.com/shorts/oOk-kK3fkr8`.
 - [ ] Verify all handles/links one more time before publishing.
 - [ ] Decide final credit wording.
 - [ ] Add credit to the video plan.
